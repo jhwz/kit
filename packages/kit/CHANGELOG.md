@@ -1,5 +1,11 @@
 # @sveltejs/kit
 
+## 1.0.0-next.302
+
+### Patch Changes
+
+- Fix error link for fallthrough replacement ([#4408](https://github.com/sveltejs/kit/pull/4408))
+
 ## 1.0.0-next.301
 
 ### Patch Changes
